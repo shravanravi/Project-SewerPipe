@@ -1,0 +1,26 @@
+function imgPartitionStruct = makePartitions( inpStruct )
+       
+%UNTITLED2 Summary of this function goes here
+%   Detailed explanation goes here
+
+% Create image sets by using Matlab imageset (R2014b onwards)
+imgPartitionStruct.trVlts_size       = length(inpStruct.splitRatio) + 1;
+imgPartitionStruct.imgSets   = imageSet(inpStruct.imgFolder,'recursive');
+imgPartitionStruct.imSetTotalNum     = sum(cat(1, imgPartitionStruct.imgSets.Count));
+imgPartitionStruct.imSetImgLoc       = {imgPartitionStruct.imgSets.ImageLocation};
+imgPartitionStruct.imSetImgLocFull   =  ...
+horzcat(imgPartitionStruct.imSetImgLoc{1}, imgPartitionStruct.imSetImgLoc{2}, ...
+        imgPartitionStruct.imSetImgLoc{3}, imgPartitionStruct.imSetImgLoc{4}, ...
+        imgPartitionStruct.imSetImgLoc{5}, imgPartitionStruct.imSetImgLoc{6}, ...
+        imgPartitionStruct.imSetImgLoc{7}, imgPartitionStruct.imSetImgLoc{8}, ...
+        imgPartitionStruct.imSetImgLoc{9});
+
+% Make train, validation and test set
+[imgPartitionStruct.trainingSets, imgPartitionStruct.validationSets, ...
+ imgPartitionStruct.testingSets] = partition(imgPartitionStruct.imgSets, ...
+                                              inpStruct.splitRatio, ...
+                                              inpStruct.splitShuffleType);
+% Save image sets
+save ZZZ_imageSetsFull.mat  imgPartitionStruct
+end
+

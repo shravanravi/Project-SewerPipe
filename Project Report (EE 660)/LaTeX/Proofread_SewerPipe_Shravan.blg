@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Proofread_SewerPipe_Shravan.aux
+The style file: chicago.bst
+Database file #1: Report-SewerPipe.bib
+I was expecting a `,' or a `}'---line 36 of file Report-SewerPipe.bib
+ :   
+ :   publisher={Wiley Online Library}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 411 of file Report-SewerPipe.bib
+ :    eid = 
+ :          ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "asce2013" isn't style-file defined
+--line 947 of file Report-SewerPipe.bib
+"}" immediately follows an entry type---line 957 of file Report-SewerPipe.bib
+ : %title = {Guidelines for the Installation, Inspection, Maintenance and Repair of Structural Supports for Highway Signs, Luminaries, and Traffic Signals {@ONLINE
+ :                                                                                                                                                                 }},
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 1149 of file Report-SewerPipe.bib
+ :  Howpublished = {\url{http://www.vlfeat.org/}}
+ :                                               
+I'm skipping whatever remains of this entry
+Warning--no number and no volume in csurka2004visual
+Warning--empty booktitle in iseley
+Warning--empty publisher in jolliffe2005principal
+You've used 17 entries,
+            2861 wiz_defined-function locations,
+            721 strings with 7763 characters,
+and the built_in function-call counts, 12281 in all, are:
+= -- 1041
+> -- 880
+< -- 7
++ -- 266
+- -- 308
+* -- 1073
+:= -- 2201
+add.period$ -- 53
+call.type$ -- 17
+change.case$ -- 120
+chr.to.int$ -- 16
+cite$ -- 20
+duplicate$ -- 356
+empty$ -- 753
+format.name$ -- 359
+if$ -- 2325
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 87
+num.names$ -- 170
+pop$ -- 105
+preamble$ -- 1
+purify$ -- 223
+quote$ -- 0
+skip$ -- 381
+stack$ -- 0
+substring$ -- 649
+swap$ -- 131
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 306
+warning$ -- 3
+while$ -- 173
+width$ -- 0
+write$ -- 229
+(There were 4 error messages)

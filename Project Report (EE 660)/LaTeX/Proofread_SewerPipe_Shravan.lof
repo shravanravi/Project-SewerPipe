@@ -1,0 +1,19 @@
+\select@language {english}
+\vspace *{-\baselineskip }
+\addvspace {0.25in}
+\contentsline {figure}{\numberline {1}{\ignorespaces A typical classification model of SVM \relax }}{4}{figure.caption.5}
+\contentsline {figure}{\numberline {2}{\ignorespaces A typical NN model (source: Wikipedia) \relax }}{4}{figure.caption.6}
+\contentsline {figure}{\numberline {3}{\ignorespaces Various phases for the project\relax }}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces Various classes of images\relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces An inpainted image\relax }}{11}{figure.caption.9}
+\contentsline {figure}{\numberline {6}{\ignorespaces SURF detector points\relax }}{11}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces A scree plot of the PCA latency (Eigen values)\relax }}{12}{figure.caption.11}
+\contentsline {figure}{\numberline {8}{\ignorespaces Decision boundary of a SVM classifier \relax }}{14}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Decision boundary for testing set}}}{14}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Data points scatter plot}}}{14}{subfigure.8.2}
+\contentsline {figure}{\numberline {9}{\ignorespaces Distribution of the Dataset \relax }}{15}{figure.caption.13}
+\contentsline {figure}{\numberline {10}{\ignorespaces Observations SVM\relax }}{16}{figure.caption.15}
+\contentsline {figure}{\numberline {11}{\ignorespaces Misclassification error for NN with 1-2-3 hidden layers and various neurons\relax }}{19}{figure.caption.16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {One hidden layer}}}{19}{subfigure.11.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Two hidden layer}}}{19}{subfigure.11.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Three hidden layer}}}{19}{subfigure.11.3}

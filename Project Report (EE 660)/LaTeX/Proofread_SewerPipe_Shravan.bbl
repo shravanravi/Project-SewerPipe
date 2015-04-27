@@ -1,0 +1,115 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Abu-Mostafa, Magdon-Ismail, and
+  Lin}{Abu-Mostafa et~al.}{2012}]{abu2012learning}
+Abu-Mostafa, Y.~S., M.~Magdon-Ismail, and H.-T. Lin (2012).
+\newblock {\em Learning from data}.
+\newblock AMLBook.
+
+\bibitem[\protect\citeauthoryear{ASCE}{ASCE}{2013}]{asce2013}
+ASCE (2013).
+\newblock {ASCE} report card for america`s infrastructure (report card).
+\newblock \url{http://www.infrastructurereportcard.org/}.
+
+\bibitem[\protect\citeauthoryear{Bertalmio, Sapiro, Caselles, and
+  Ballester}{Bertalmio et~al.}{2000}]{bertalmio2000image}
+Bertalmio, M., G.~Sapiro, V.~Caselles, and C.~Ballester (2000).
+\newblock Image inpainting.
+\newblock In {\em Proceedings of the 27th annual conference on Computer
+  graphics and interactive techniques}, pp.\  417--424. ACM
+  Press/Addison-Wesley Publishing Co.
+
+\bibitem[\protect\citeauthoryear{Csurka, Bray, Dance, and Fan}{Csurka
+  et~al.}{2004}]{csurka2004visual}
+Csurka, G., C.~Bray, C.~Dance, and L.~Fan (2004).
+\newblock Visual categorization with bags of keypoints.
+\newblock {\em Workshop on Statistical Learning in Computer Vision, ECCV\/},
+  1--22.
+
+\bibitem[\protect\citeauthoryear{Fieguth and Sinha}{Fieguth and
+  Sinha}{1999}]{fieguths99}
+Fieguth, P.~W. and S.~K. Sinha (1999).
+\newblock Automated analysis and detection of cracks in underground scanned
+  pipes.
+\newblock In {\em ICIP (4)}, pp.\  395--399.
+
+\bibitem[\protect\citeauthoryear{Haussler and Long}{Haussler and
+  Long}{1995}]{haussler1995generalization}
+Haussler, D. and P.~M. Long (1995).
+\newblock A generalization of sauer's lemma.
+\newblock {\em Journal of Combinatorial Theory, Series A\/}~{\em 71\/}(2),
+  219--240.
+
+\bibitem[\protect\citeauthoryear{Iseley}{Iseley}{1999}]{iseley}
+Iseley, T. (1999).
+\newblock Pipeline condition assessment: Achieving uniform defect ratings.
+\newblock Volume~1, pp.\  121--132. Infra 99 Intl. Conf.
+
+\bibitem[\protect\citeauthoryear{Iyer and Sinha}{Iyer and
+  Sinha}{2006}]{iyer_shiva}
+Iyer, S. and S.~K. Sinha (2006).
+\newblock Segmentation of pipe images for crack detection in buried sewers.
+\newblock {\em Computer-Aided Civil and Infrastructure Engineering\/}~{\em
+  21\/}(6), 395--410.
+
+\bibitem[\protect\citeauthoryear{Iyer and Sinha}{Iyer and
+  Sinha}{2013}]{iyer2013automated}
+Iyer, S. and S.~K. Sinha (2013).
+\newblock Automated condition assessment of buried sewer pipes based on digital
+  imaging techniques.
+\newblock {\em Journal of the Indian Institute of Science\/}~{\em 85\/}(5),
+  235.
+
+\bibitem[\protect\citeauthoryear{Jahanshahi, Masri, Padgett, and
+  Sukhatme}{Jahanshahi et~al.}{2013}]{jahanshahi2013innovative}
+Jahanshahi, M.~R., S.~F. Masri, C.~W. Padgett, and G.~S. Sukhatme (2013).
+\newblock An innovative methodology for detection and quantification of cracks
+  through incorporation of depth perception.
+\newblock {\em Machine vision and applications\/}~{\em 24\/}(2), 227--241.
+
+\bibitem[\protect\citeauthoryear{Jahanshahi, Masri, and Sukhatme}{Jahanshahi
+  et~al.}{2011}]{jahanshahi2011multi-image}
+Jahanshahi, M.~R., S.~F. Masri, and G.~S. Sukhatme (2011).
+\newblock Multi-image stitching and scene reconstruction for evaluating defect
+  evolution in structures.
+\newblock {\em Structural Health Monitoring\/}~{\em 10\/}(6), 643--657.
+
+\bibitem[\protect\citeauthoryear{Jolliffe}{Jolliffe}{2005}]{jolliffe2005principal}
+Jolliffe, I. (2005).
+\newblock {\em Principal component analysis}.
+
+\bibitem[\protect\citeauthoryear{Murphy}{Murphy}{2012}]{murphy2012machine}
+Murphy, K.~P. (2012).
+\newblock {\em Machine learning: a probabilistic perspective}.
+\newblock MIT press.
+
+\bibitem[\protect\citeauthoryear{Sinha and Fieguth}{Sinha and
+  Fieguth}{2006a}]{Sinha200658}
+Sinha, S.~K. and P.~W. Fieguth (2006a).
+\newblock Automated detection of cracks in buried concrete pipe images.
+\newblock {\em Automation in Construction\/}~{\em 15\/}(1), 58 -- 72.
+
+\bibitem[\protect\citeauthoryear{Sinha and Fieguth}{Sinha and
+  Fieguth}{2006b}]{Sinha200647}
+Sinha, S.~K. and P.~W. Fieguth (2006b).
+\newblock Segmentation of buried concrete pipe images.
+\newblock {\em Automation in Construction\/}~{\em 15\/}(1), 47 -- 57.
+
+\bibitem[\protect\citeauthoryear{Tewari and Bartlett}{Tewari and
+  Bartlett}{2014}]{tewari13learning}
+Tewari, A. and P.~L. Bartlett (2014).
+\newblock Learning theory.
+\newblock In P.~S. Diniz, J.~A. Suykens, R.~Chellappa, and S.~Theodoridis
+  (Eds.), {\em Academic Press Library in Signal Processing: Volume 1 Signal
+  Processing Theory and Machine Learning}, Volume~1 of {\em Academic Press
+  Library in Signal Processing}, Chapter~14, pp.\  775--816. Elsevier.
+
+\bibitem[\protect\citeauthoryear{Vapnik and Chervonenkis}{Vapnik and
+  Chervonenkis}{1971}]{vapnik1971uniform}
+Vapnik, V.~N. and A.~Y. Chervonenkis (1971).
+\newblock On the uniform convergence of relative frequencies of events to their
+  probabilities.
+\newblock {\em Theory of Probability \& Its Applications\/}~{\em 16\/}(2),
+  264--280.
+
+\end{thebibliography}
